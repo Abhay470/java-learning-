@@ -1,4 +1,4 @@
-package linewise;
+package first_code;
 
 /***********week 1 video code ********* */
 

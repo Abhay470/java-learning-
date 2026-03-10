@@ -1,4 +1,4 @@
-package linewise;
+package linewise.operators_03;
 public class alloperators {
     public static void main(String[] args) {
         
